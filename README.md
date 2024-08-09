@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst
 ------------
 
-An analytics enthusiast having a deep interest in analyzing and telling stories with data using various machine learning and visualization tools.
+An Aspiring Data Analyst with a strong foundation in Excel, SQL, Power BI, Python and statistical Concept. Skilled in database management, data manipulation, visualization and analysis. Enthusiastic about collaborating with across teams to contribute to organization’s success.
 
 * 🌍  I'm based in West Bengal,India
 * ✉️  You can contact me at [soumiksaha1107@gmail.com](mailto:soumiksaha1107@gmail.com)
