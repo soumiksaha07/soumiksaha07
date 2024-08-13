@@ -5,13 +5,28 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Soumik Saha
 ===================================================================================================================================
 
-Data Analyst
-------------
+An Aspiring Data Analyst with a strong foundation in **Excel**, **SQL**, **Power BI**, **Python** and **statistical Concept**. Skilled in database management, data manipulation, visualization and analysis. Enthusiastic about collaborating with across teams to contribute to organization’s success.
 
-An Aspiring Data Analyst with a strong foundation in Excel, SQL, Power BI, Python and statistical Concept. Skilled in database management, data manipulation, visualization and analysis. Enthusiastic about collaborating with across teams to contribute to organization’s success.
+* 🌍 I'm based in West Bengal,India
+* 💬 Ask me about Excel, SQL, Power BI and Python Programming
+* ✉️ You can contact me at [soumiksaha1107@gmail.com](mailto:soumiksaha1107@gmail.com)
+* 🔭 Here's my updated portfolio **[Click on it :)](file://C:/Users/user/Downloads/Portfolio_Website/index_soumik.html)**
+* 🔎 See my continious learning and improvement below
 
-* 🌍  I'm based in West Bengal,India
-* ✉️  You can contact me at [soumiksaha1107@gmail.com](mailto:soumiksaha1107@gmail.com)
+<div>
+    <a href="https://www.linkedin.com/in/soumiksaha07/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
+    <a href="https://github.com/soumiksaha07" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+    </a>
+    <a href="https://leetcode.com/u/soumiksaha_23/" target="_blank">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank">
+    </a>
+    <a href="https://www.hackerrank.com/profile/soumik2001saha" target="_blank">
+        <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" target="_blank">
+    </a>
+</div>
 
 ### Skills
 
@@ -29,9 +44,9 @@ An Aspiring Data Analyst with a strong foundation in Excel, SQL, Power BI, Pytho
 <p align="left"> <a href="https://github.com/soumiksaha07" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/soumiksaha07" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
 <a href="https://github.com/soumiksaha07"><img src="https://github-readme-stats.vercel.app/api?username=soumiksaha07&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="soumiksaha07's GitHub stats" /></a>
 
