@@ -14,7 +14,7 @@ An Aspiring Data Analyst with a strong foundation in **Excel**, **SQL**, **Power
 * 🔎 See my continious learning and improvement below
 
 <div>
-    <a href="https://www.theforage.com/achievement" target="_blank">
+    <a href="https://www.theforage.com/achievements" target="_blank">
         <img src="https://img.shields.io/badge/Forage-2D9CDB?style=for-the-badge&logo=Forage&logoColor=white" style="padding: 40px;" target="_blank">
     </a>
     <a href="https://github.com/soumiksaha07" target="_blank">
