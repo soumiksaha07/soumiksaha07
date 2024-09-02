@@ -1,7 +1,7 @@
 <!--- - 👁️ Advisor at ... --->
 
-[![Years Badge](https://badges.pufler.dev/years/soumiksaha07&color=green)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/soumiksaha07&color=green)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/soumiksaha07)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/soumiksaha07)](https://badges.pufler.dev)
 ![](https://komarev.com/ghpvc/?username=soumiksaha07&color=green)
 
 
