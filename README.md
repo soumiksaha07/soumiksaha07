@@ -1,10 +1,3 @@
-<!--- - 👁️ Advisor at ... --->
-
-[![Years Badge](https://badges.pufler.dev/years/soumiksaha07)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/soumiksaha07)](https://badges.pufler.dev)
-![](https://komarev.com/ghpvc/?username=soumiksaha07&color=green)
-
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
